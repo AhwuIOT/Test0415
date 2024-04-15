@@ -25,7 +25,7 @@ print(x)
 ## 相對位址
 ## 絕對位址
 
-![a](image.png)<br>
+![a](./test_img/u1f30d_u1f388.png)<br>
 
 | 日期| 項目 |
 |:--- |:---: |
