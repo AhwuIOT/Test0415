@@ -7,4 +7,4 @@
 6. 了解Git Graph
 7. 了解main/origin標籤
 8. 了解git add;git commit; git push指令
-9. 本地端哭哭
+9. 測試git branch;git checkout的使用方式
