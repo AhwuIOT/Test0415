@@ -5,3 +5,4 @@
 4. git config --global user.email "ahwuiot@gmail.com"
 5. 在一開始(第一次本電腦使用git連結遠端資料庫的時候要設定)
 6. 了解Git Graph
+7. 了解main/origin標籤
