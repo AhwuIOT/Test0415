@@ -6,3 +6,4 @@
 5. 在一開始(第一次本電腦使用git連結遠端資料庫的時候要設定)
 6. 了解Git Graph
 7. 了解main/origin標籤
+8. 了解git add;git commit; git push指令
